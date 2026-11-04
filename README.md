@@ -87,4 +87,4 @@ The Olympic pool is set up as 50 metres (10 lanes) on Fridays from 15:00 to 21:3
 
 No data since sampling began: it may be closed.
 
-<sub>Updated 04/11/2026 11:09 · Sampled every 15 min during opening hours</sub>
+<sub>Updated 04/11/2026 11:11 · Sampled every 15 min during opening hours</sub>

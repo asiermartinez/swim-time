@@ -87,4 +87,4 @@ La piscina olímpica se configura en 50 metros (10 calles) los viernes de 15:00 
 
 Sin datos desde que empezó el muestreo: puede que esté cerrada.
 
-<sub>Actualizado el 04/11/2026 11:09 · Muestreo cada 15 min en horario de apertura</sub>
+<sub>Actualizado el 04/11/2026 11:11 · Muestreo cada 15 min en horario de apertura</sub>
