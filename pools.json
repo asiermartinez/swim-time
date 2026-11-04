@@ -1,0 +1,136 @@
+[
+  {
+    "code": "2",
+    "slug": "mendizorrotza",
+    "name": "C.D. Mendizorrotza",
+    "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u_5a9799f5_12dc5ee1ab6__7fbf",
+    "address": "Calle José Luis Compañón, 1, 01007 Vitoria-Gasteiz",
+    "geo": [42.83777, -2.68518],
+    "hours": {
+      "mon-fri": "06:00-21:30",
+      "sat-sun": "08:00-21:30"
+    },
+    "note": "La piscina olímpica se configura en 50 metros (10 calles) los viernes de 15:00 a 21:30 y los sábados de 8:00 a 13:30 (excepto días de competición). El resto de horarios se mantiene en 20 calles de 25 metros.",
+    "note_en": "The Olympic pool is set up as 50 metres (10 lanes) on Fridays from 15:00 to 21:30 and on Saturdays from 8:00 to 13:30 (except on competition days). At all other times it stays as 20 lanes of 25 metres."
+  },
+  {
+    "code": "4",
+    "slug": "iparralde",
+    "name": "C.C. Iparralde",
+    "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=entuo_1_9_4_3",
+    "address": "Plaza Zuberoa, s/n, 01002 Vitoria-Gasteiz",
+    "geo": [42.85507, -2.66751],
+    "hours": {
+      "mon-sun": "08:00-21:30"
+    },
+    "capacity": 182
+  },
+  {
+    "code": "6",
+    "slug": "judimendi",
+    "name": "C.C. Judimendi",
+    "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=entuo_1_2_4_2",
+    "address": "Avenida de Judimendi, 26, 01003 Vitoria-Gasteiz",
+    "geo": [42.8447, -2.66205],
+    "hours": {
+      "mon-sun": "08:00-21:30"
+    },
+    "capacity": 250
+  },
+  {
+    "code": "26",
+    "slug": "lakua",
+    "name": "C.C. Lakua",
+    "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=entuo_1_6_4_1",
+    "address": "Senda de los Echanove, 2, 01010 Vitoria-Gasteiz",
+    "geo": [42.85599, -2.69537],
+    "hours": {
+      "mon-sun": "08:00-21:30"
+    },
+    "capacity": 187
+  },
+  {
+    "code": "28",
+    "slug": "abetxuko",
+    "name": "Pol. Abetxuko",
+    "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=entuo_8_3_4_1",
+    "address": "Calle La Ribera, 3-F, 01013 Vitoria-Gasteiz",
+    "geo": [42.8755, -2.6752],
+    "hours": {
+      "mon-sun": "08:00-21:30"
+    },
+    "capacity": 180
+  },
+  {
+    "code": "34",
+    "slug": "hegoalde",
+    "name": "C.C. Hegoalde",
+    "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=entuo_1_8_4_3",
+    "address": "Calle Alberto Schommer, 10, 01006 Vitoria-Gasteiz",
+    "geo": [42.83659, -2.66686],
+    "hours": {
+      "mon-sun": "08:00-21:30"
+    },
+    "capacity": 145
+  },
+  {
+    "code": "35",
+    "slug": "aldabe",
+    "name": "C.C. Aldabe",
+    "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=entuo_1_7_4_2",
+    "address": "Calle Portal de Arriaga, 1A, 01012 Vitoria-Gasteiz",
+    "geo": [42.85228, -2.67335],
+    "hours": {
+      "mon-sun": "08:00-21:30"
+    },
+    "capacity": 170
+  },
+  {
+    "code": "49",
+    "slug": "san-andres",
+    "name": "Pol. San Andrés",
+    "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=entuo_8_3_2_1",
+    "address": "Calle Argentina, 7, 01009 Vitoria-Gasteiz",
+    "geo": [42.85535, -2.68372],
+    "hours": {
+      "mon-sun": "08:00-21:30"
+    },
+    "capacity": 180
+  },
+  {
+    "code": "54",
+    "slug": "ibaiondo",
+    "name": "C.C. Ibaiondo",
+    "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u4b8944ec_12823c2e791__7fbe",
+    "address": "Calle Landaberde, 31, 01010 Vitoria-Gasteiz",
+    "geo": [42.86816, -2.69609],
+    "hours": {
+      "mon-sun": "08:00-21:30"
+    },
+    "capacity": 250
+  },
+  {
+    "code": "64",
+    "slug": "zabalgana",
+    "name": "C.C. Zabalgana",
+    "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u5e86ec82_15e83cf300f__7e85",
+    "address": "Calle Juan Gris, 2, 01010 Vitoria-Gasteiz",
+    "geo": [42.84552, -2.70466],
+    "hours": {
+      "mon-sun": "08:00-21:30"
+    },
+    "capacity": 250
+  },
+  {
+    "code": "65",
+    "slug": "salburua",
+    "name": "C.C. Salburua",
+    "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u_723d698f_14d333feed3__7f12",
+    "address": "Avenida de Bratislava, 2, 01003 Vitoria-Gasteiz",
+    "geo": [42.84395, -2.65129],
+    "hours": {
+      "mon-sun": "08:00-21:30"
+    },
+    "capacity": 180
+  }
+]

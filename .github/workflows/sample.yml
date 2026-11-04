@@ -1,0 +1,63 @@
+name: sample
+
+on:
+  # Every 15 min, 04:00–20:45 UTC: covers 06:00–21:30 in Vitoria in both
+  # summer (UTC+2) and winter (UTC+1). The binary skips runs when every pool
+  # is closed.
+  schedule:
+    - cron: "*/15 4-20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
+
+jobs:
+  sample:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # Samples live on the data branch; swimtime reads them from ./data.
+      - uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+          fetch-depth: 1
+
+      - id: bin
+        uses: actions/cache@v4
+        with:
+          path: bin/swimtime
+          key: swimtime-${{ runner.os }}-${{ hashFiles('go.mod', 'cmd/**') }}
+
+      - if: steps.bin.outputs.cache-hit != 'true'
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+          cache: false
+
+      - if: steps.bin.outputs.cache-hit != 'true'
+        run: CGO_ENABLED=0 go build -trimpath -ldflags='-s -w' -o bin/swimtime ./cmd/swimtime
+
+      - run: bin/swimtime sample
+
+      - name: Commit
+        working-directory: data
+        run: |
+          git add .
+          git diff --cached --quiet && exit 0
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit --quiet -m "data: $(TZ=Europe/Madrid date +'%Y-%m-%d %H:%M')"
+          for i in 1 2 3; do
+            git pull --rebase --quiet && git push --quiet && exit 0
+            sleep 5
+          done
+          exit 1

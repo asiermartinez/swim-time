@@ -1,0 +1,31 @@
+# Binaries (`go build -o bin/swimtime ./cmd/swimtime`, or a plain `go build`)
+/bin/
+/swimtime
+*.exe
+
+# Go tooling
+*.test
+*.out
+*.prof
+coverage.*
+go.work
+go.work.sum
+
+# Local environment
+.env
+.env.*
+
+# Editors and OS
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Samples live on the data branch. To render locally:
+#   git worktree add data data
+/data/
+
+# Note: charts/, calendar/, es/ and README.md are generated but committed on purpose:
+# they are the project's output.

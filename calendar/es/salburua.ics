@@ -1,0 +1,1055 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swim-time//swimtime//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Piscina C.C. Salburua
+X-WR-CALDESC:Horas más tranquilas de C.C. Salburua\, según la ocupación 
+ típica de cada día de la semana.
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZNAME:CEST
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+DTSTART:19961027T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CET
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:salburua-20261023-1@swim-time
+DTSTAMP:20261023T210323Z
+DTSTART;TZID=Europe/Madrid:20261023T143000
+DTEND;TZID=Europe/Madrid:20261023T153000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un viernes típico hay unas 8 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261023-2@swim-time
+DTSTAMP:20261023T210323Z
+DTSTART;TZID=Europe/Madrid:20261023T203000
+DTEND;TZID=Europe/Madrid:20261023T213000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un viernes típico hay unas 8 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261023-3@swim-time
+DTSTAMP:20261023T210323Z
+DTSTART;TZID=Europe/Madrid:20261023T080000
+DTEND;TZID=Europe/Madrid:20261023T090000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un viernes típico hay unas 9 personas en esta h
+ ora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261024-1@swim-time
+DTSTAMP:20261024T210256Z
+DTSTART;TZID=Europe/Madrid:20261024T080000
+DTEND;TZID=Europe/Madrid:20261024T090000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un sábado típico hay unas 8 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261024-2@swim-time
+DTSTAMP:20261024T210256Z
+DTSTART;TZID=Europe/Madrid:20261024T203000
+DTEND;TZID=Europe/Madrid:20261024T213000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un sábado típico hay unas 9 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261024-3@swim-time
+DTSTAMP:20261024T210256Z
+DTSTART;TZID=Europe/Madrid:20261024T150000
+DTEND;TZID=Europe/Madrid:20261024T160000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un sábado típico hay unas 12 personas en esta 
+ hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261025-1@swim-time
+DTSTAMP:20261025T210258Z
+DTSTART;TZID=Europe/Madrid:20261025T080000
+DTEND;TZID=Europe/Madrid:20261025T090000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un domingo típico hay unas 6 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261025-2@swim-time
+DTSTAMP:20261025T210258Z
+DTSTART;TZID=Europe/Madrid:20261025T150000
+DTEND;TZID=Europe/Madrid:20261025T160000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un domingo típico hay unas 7 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261025-3@swim-time
+DTSTAMP:20261025T210258Z
+DTSTART;TZID=Europe/Madrid:20261025T203000
+DTEND;TZID=Europe/Madrid:20261025T213000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un domingo típico hay unas 10 personas en esta 
+ hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261026-1@swim-time
+DTSTAMP:20261026T210256Z
+DTSTART;TZID=Europe/Madrid:20261026T143000
+DTEND;TZID=Europe/Madrid:20261026T153000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un lunes típico hay unas 11 personas en esta ho
+ ra (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261026-2@swim-time
+DTSTAMP:20261026T210256Z
+DTSTART;TZID=Europe/Madrid:20261026T123000
+DTEND;TZID=Europe/Madrid:20261026T133000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un lunes típico hay unas 16 personas en esta ho
+ ra (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261026-3@swim-time
+DTSTAMP:20261026T210256Z
+DTSTART;TZID=Europe/Madrid:20261026T163000
+DTEND;TZID=Europe/Madrid:20261026T173000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un lunes típico hay unas 18 personas en esta ho
+ ra (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261027-1@swim-time
+DTSTAMP:20261027T210248Z
+DTSTART;TZID=Europe/Madrid:20261027T143000
+DTEND;TZID=Europe/Madrid:20261027T153000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un martes típico hay unas 11 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261027-2@swim-time
+DTSTAMP:20261027T210248Z
+DTSTART;TZID=Europe/Madrid:20261027T080000
+DTEND;TZID=Europe/Madrid:20261027T090000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un martes típico hay unas 13 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261027-3@swim-time
+DTSTAMP:20261027T210248Z
+DTSTART;TZID=Europe/Madrid:20261027T163000
+DTEND;TZID=Europe/Madrid:20261027T173000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un martes típico hay unas 18 personas en esta h
+ ora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261028-1@swim-time
+DTSTAMP:20261028T210246Z
+DTSTART;TZID=Europe/Madrid:20261028T140000
+DTEND;TZID=Europe/Madrid:20261028T150000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un miércoles típico hay unas 8 personas en est
+ a hora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261028-2@swim-time
+DTSTAMP:20261028T210246Z
+DTSTART;TZID=Europe/Madrid:20261028T120000
+DTEND;TZID=Europe/Madrid:20261028T130000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un miércoles típico hay unas 16 personas en es
+ ta hora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261028-3@swim-time
+DTSTAMP:20261028T210246Z
+DTSTART;TZID=Europe/Madrid:20261028T160000
+DTEND;TZID=Europe/Madrid:20261028T170000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un miércoles típico hay unas 18 personas en es
+ ta hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261029-1@swim-time
+DTSTAMP:20261029T210257Z
+DTSTART;TZID=Europe/Madrid:20261029T130000
+DTEND;TZID=Europe/Madrid:20261029T140000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un jueves típico hay unas 11 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261029-2@swim-time
+DTSTAMP:20261029T210257Z
+DTSTART;TZID=Europe/Madrid:20261029T080000
+DTEND;TZID=Europe/Madrid:20261029T090000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un jueves típico hay unas 12 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261029-3@swim-time
+DTSTAMP:20261029T210257Z
+DTSTART;TZID=Europe/Madrid:20261029T150000
+DTEND;TZID=Europe/Madrid:20261029T160000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un jueves típico hay unas 14 personas en esta h
+ ora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261030-1@swim-time
+DTSTAMP:20261030T210159Z
+DTSTART;TZID=Europe/Madrid:20261030T143000
+DTEND;TZID=Europe/Madrid:20261030T153000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un viernes típico hay unas 6 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261030-2@swim-time
+DTSTAMP:20261030T210159Z
+DTSTART;TZID=Europe/Madrid:20261030T203000
+DTEND;TZID=Europe/Madrid:20261030T213000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un viernes típico hay unas 9 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261030-3@swim-time
+DTSTAMP:20261030T210159Z
+DTSTART;TZID=Europe/Madrid:20261030T080000
+DTEND;TZID=Europe/Madrid:20261030T090000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un viernes típico hay unas 10 personas en esta 
+ hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261031-1@swim-time
+DTSTAMP:20261031T210211Z
+DTSTART;TZID=Europe/Madrid:20261031T080000
+DTEND;TZID=Europe/Madrid:20261031T090000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un sábado típico hay unas 9 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261031-2@swim-time
+DTSTAMP:20261031T210211Z
+DTSTART;TZID=Europe/Madrid:20261031T203000
+DTEND;TZID=Europe/Madrid:20261031T213000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un sábado típico hay unas 9 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261031-3@swim-time
+DTSTAMP:20261031T210211Z
+DTSTART;TZID=Europe/Madrid:20261031T150000
+DTEND;TZID=Europe/Madrid:20261031T160000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un sábado típico hay unas 11 personas en esta 
+ hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261101-1@swim-time
+DTSTAMP:20261101T210212Z
+DTSTART;TZID=Europe/Madrid:20261101T080000
+DTEND;TZID=Europe/Madrid:20261101T090000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un domingo típico hay unas 6 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261101-2@swim-time
+DTSTAMP:20261101T210212Z
+DTSTART;TZID=Europe/Madrid:20261101T150000
+DTEND;TZID=Europe/Madrid:20261101T160000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un domingo típico hay unas 8 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261101-3@swim-time
+DTSTAMP:20261101T210212Z
+DTSTART;TZID=Europe/Madrid:20261101T203000
+DTEND;TZID=Europe/Madrid:20261101T213000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un domingo típico hay unas 10 personas en esta 
+ hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261102-1@swim-time
+DTSTAMP:20261102T210219Z
+DTSTART;TZID=Europe/Madrid:20261102T143000
+DTEND;TZID=Europe/Madrid:20261102T153000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un lunes típico hay unas 9 personas en esta hor
+ a (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261102-2@swim-time
+DTSTAMP:20261102T210219Z
+DTSTART;TZID=Europe/Madrid:20261102T123000
+DTEND;TZID=Europe/Madrid:20261102T133000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un lunes típico hay unas 16 personas en esta ho
+ ra (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261102-3@swim-time
+DTSTAMP:20261102T210219Z
+DTSTART;TZID=Europe/Madrid:20261102T163000
+DTEND;TZID=Europe/Madrid:20261102T173000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un lunes típico hay unas 18 personas en esta ho
+ ra (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261103-1@swim-time
+DTSTAMP:20261103T210159Z
+DTSTART;TZID=Europe/Madrid:20261103T143000
+DTEND;TZID=Europe/Madrid:20261103T153000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un martes típico hay unas 11 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261103-2@swim-time
+DTSTAMP:20261103T210159Z
+DTSTART;TZID=Europe/Madrid:20261103T080000
+DTEND;TZID=Europe/Madrid:20261103T090000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un martes típico hay unas 14 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261103-3@swim-time
+DTSTAMP:20261103T210159Z
+DTSTART;TZID=Europe/Madrid:20261103T163000
+DTEND;TZID=Europe/Madrid:20261103T173000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un martes típico hay unas 17 personas en esta h
+ ora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261104-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261104T140000
+DTEND;TZID=Europe/Madrid:20261104T150000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un miércoles típico hay unas 8 personas en est
+ a hora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261104-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261104T120000
+DTEND;TZID=Europe/Madrid:20261104T130000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un miércoles típico hay unas 16 personas en es
+ ta hora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261104-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261104T160000
+DTEND;TZID=Europe/Madrid:20261104T170000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un miércoles típico hay unas 18 personas en es
+ ta hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261105-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261105T130000
+DTEND;TZID=Europe/Madrid:20261105T140000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un jueves típico hay unas 11 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261105-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261105T080000
+DTEND;TZID=Europe/Madrid:20261105T090000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un jueves típico hay unas 12 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261105-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261105T150000
+DTEND;TZID=Europe/Madrid:20261105T160000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un jueves típico hay unas 14 personas en esta h
+ ora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261106-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261106T143000
+DTEND;TZID=Europe/Madrid:20261106T153000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un viernes típico hay unas 6 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261106-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261106T203000
+DTEND;TZID=Europe/Madrid:20261106T213000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un viernes típico hay unas 9 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261106-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261106T080000
+DTEND;TZID=Europe/Madrid:20261106T090000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un viernes típico hay unas 10 personas en esta 
+ hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261107-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261107T080000
+DTEND;TZID=Europe/Madrid:20261107T090000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un sábado típico hay unas 9 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261107-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261107T203000
+DTEND;TZID=Europe/Madrid:20261107T213000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un sábado típico hay unas 9 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261107-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261107T150000
+DTEND;TZID=Europe/Madrid:20261107T160000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un sábado típico hay unas 11 personas en esta 
+ hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261108-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261108T080000
+DTEND;TZID=Europe/Madrid:20261108T090000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un domingo típico hay unas 6 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261108-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261108T150000
+DTEND;TZID=Europe/Madrid:20261108T160000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un domingo típico hay unas 8 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261108-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261108T203000
+DTEND;TZID=Europe/Madrid:20261108T213000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un domingo típico hay unas 10 personas en esta 
+ hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261109-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261109T143000
+DTEND;TZID=Europe/Madrid:20261109T153000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un lunes típico hay unas 9 personas en esta hor
+ a (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261109-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261109T123000
+DTEND;TZID=Europe/Madrid:20261109T133000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un lunes típico hay unas 16 personas en esta ho
+ ra (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261109-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261109T163000
+DTEND;TZID=Europe/Madrid:20261109T173000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un lunes típico hay unas 18 personas en esta ho
+ ra (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261110-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261110T143000
+DTEND;TZID=Europe/Madrid:20261110T153000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Salburua: un martes típico hay unas 11 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261110-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261110T080000
+DTEND;TZID=Europe/Madrid:20261110T090000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Salburua: un martes típico hay unas 14 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261110-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261110T163000
+DTEND;TZID=Europe/Madrid:20261110T173000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Salburua: un martes típico hay unas 17 personas en esta h
+ ora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

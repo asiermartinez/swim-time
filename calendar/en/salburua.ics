@@ -1,0 +1,407 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swim-time//swimtime//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:C.C. Salburua pool
+X-WR-CALDESC:Quietest hours of C.C. Salburua\, based on the typical occupan
+ cy of each day of the week.
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZNAME:CEST
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+DTSTART:19961027T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CET
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:salburua-20261104-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261104T140000
+DTEND;TZID=Europe/Madrid:20261104T150000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:C.C. Salburua: on a typical Wednesday there are about 8 people 
+ at this time (capacity 180). It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261104-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261104T120000
+DTEND;TZID=Europe/Madrid:20261104T130000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:C.C. Salburua: on a typical Wednesday there are about 16 people
+  at this time (capacity 180). It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261104-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261104T160000
+DTEND;TZID=Europe/Madrid:20261104T170000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:C.C. Salburua: on a typical Wednesday there are about 18 people
+  at this time (capacity 180). It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261105-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261105T130000
+DTEND;TZID=Europe/Madrid:20261105T140000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:C.C. Salburua: on a typical Thursday there are about 11 people 
+ at this time (capacity 180). It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261105-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261105T080000
+DTEND;TZID=Europe/Madrid:20261105T090000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:C.C. Salburua: on a typical Thursday there are about 12 people 
+ at this time (capacity 180). It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261105-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261105T150000
+DTEND;TZID=Europe/Madrid:20261105T160000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:C.C. Salburua: on a typical Thursday there are about 14 people 
+ at this time (capacity 180). It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261106-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261106T143000
+DTEND;TZID=Europe/Madrid:20261106T153000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:C.C. Salburua: on a typical Friday there are about 6 people at 
+ this time (capacity 180). It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261106-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261106T203000
+DTEND;TZID=Europe/Madrid:20261106T213000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:C.C. Salburua: on a typical Friday there are about 9 people at 
+ this time (capacity 180). It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261106-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261106T080000
+DTEND;TZID=Europe/Madrid:20261106T090000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:C.C. Salburua: on a typical Friday there are about 10 people at
+  this time (capacity 180). It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261107-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261107T080000
+DTEND;TZID=Europe/Madrid:20261107T090000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:C.C. Salburua: on a typical Saturday there are about 9 people a
+ t this time (capacity 180). It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261107-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261107T203000
+DTEND;TZID=Europe/Madrid:20261107T213000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:C.C. Salburua: on a typical Saturday there are about 9 people a
+ t this time (capacity 180). It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261107-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261107T150000
+DTEND;TZID=Europe/Madrid:20261107T160000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:C.C. Salburua: on a typical Saturday there are about 11 people 
+ at this time (capacity 180). It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261108-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261108T080000
+DTEND;TZID=Europe/Madrid:20261108T090000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:C.C. Salburua: on a typical Sunday there are about 6 people at 
+ this time (capacity 180). It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261108-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261108T150000
+DTEND;TZID=Europe/Madrid:20261108T160000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:C.C. Salburua: on a typical Sunday there are about 8 people at 
+ this time (capacity 180). It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261108-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261108T203000
+DTEND;TZID=Europe/Madrid:20261108T213000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:C.C. Salburua: on a typical Sunday there are about 10 people at
+  this time (capacity 180). It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261109-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261109T143000
+DTEND;TZID=Europe/Madrid:20261109T153000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:C.C. Salburua: on a typical Monday there are about 9 people at 
+ this time (capacity 180). It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261109-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261109T123000
+DTEND;TZID=Europe/Madrid:20261109T133000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:C.C. Salburua: on a typical Monday there are about 16 people at
+  this time (capacity 180). It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261109-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261109T163000
+DTEND;TZID=Europe/Madrid:20261109T173000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:C.C. Salburua: on a typical Monday there are about 18 people at
+  this time (capacity 180). It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261110-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261110T143000
+DTEND;TZID=Europe/Madrid:20261110T153000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:C.C. Salburua: on a typical Tuesday there are about 11 people a
+ t this time (capacity 180). It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261110-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261110T080000
+DTEND;TZID=Europe/Madrid:20261110T090000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:C.C. Salburua: on a typical Tuesday there are about 14 people a
+ t this time (capacity 180). It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:salburua-20261110-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261110T163000
+DTEND;TZID=Europe/Madrid:20261110T173000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:C.C. Salburua: on a typical Tuesday there are about 17 people a
+ t this time (capacity 180). It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_723d698f_14d333feed3__7f12
+LOCATION:C.C. Salburua\nAvenida de Bratislava\, 2\, 01003 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Avenida de Bratislava, 2, 
+ 01003 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Salburua":geo:42.84395,-2.65129
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

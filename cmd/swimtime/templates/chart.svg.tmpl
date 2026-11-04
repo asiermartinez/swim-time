@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="{{f .W}}" height="{{f .H}}" viewBox="0 0 {{f .W}} {{f .H}}" role="img" aria-label="{{x .Title}}">
+<title>{{x .Title}}</title>
+<style>
+@font-face{font-family:"JetBrains Mono";font-weight:600;src:url({{font "FontSemiBold"}}) format("woff2")}
+svg{--ink:#111;--mute:#8c8c8c;--grid:#e6e6e6;--line:#b8b8b8;--accent:#f0144b;--heat:#111}
+@media (prefers-color-scheme:dark){svg{--ink:#e6edf3;--mute:#7d8590;--grid:#262c33;--line:#5c636b;--accent:#ff4569;--heat:#e6edf3}}
+text{font:600 11px "JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:var(--ink)}
+text.m{fill:var(--mute)}
+text.o{fill:var(--mute);fill-opacity:.5}
+text.a{fill:var(--accent)}
+.g line{stroke:var(--grid);stroke-width:1}
+.t line{stroke:var(--mute);stroke-width:1}
+.s{fill:var(--heat)}
+.c{fill:none;stroke:var(--line);stroke-width:1.75;stroke-linecap:round;stroke-linejoin:round}
+.c.q{stroke:var(--ink);stroke-width:2.25}
+.c.a{stroke:var(--accent);stroke-width:2.25}
+.h{fill:none;stroke:var(--mute);stroke-width:1;stroke-opacity:.2}
+.h.a{stroke:var(--accent)}
+</style>
+<defs>
+{{- range $i, $q := .Quiet}}
+<clipPath id="q{{$i}}"><rect x="{{f .X}}" y="{{f .Y}}" width="{{f .W}}" height="{{f .H}}"/></clipPath>
+{{- end}}
+</defs>
+<g class="g">
+{{- range .Rules}}
+<line x1="{{f .X1}}" y1="{{f .Y1}}" x2="{{f .X2}}" y2="{{f .Y2}}"/>
+{{- end}}
+</g>
+<g class="s">
+{{- range .Heat}}
+<rect x="{{f .X}}" y="{{f .Y}}" width="{{f .W}}" height="{{f .H}}" fill-opacity="{{o .Opacity}}"/>
+{{- end}}
+</g>
+{{- range $i, $q := .Quiet}}
+<path class="h{{if .Best}} a{{end}}" d="{{.Hatch}}" clip-path="url(#q{{$i}})"/>
+{{- end}}
+{{- range .Curves}}
+<path class="c" d="{{.}}"/>
+{{- end}}
+{{- range $i, $q := .Quiet}}
+<path class="c {{if .Best}}a{{else}}q{{end}}" d="{{.Curve}}" clip-path="url(#q{{$i}})"/>
+{{- end}}
+<g class="t">
+{{- range .Ticks}}
+<line x1="{{f .X1}}" y1="{{f .Y1}}" x2="{{f .X2}}" y2="{{f .Y2}}"/>
+{{- end}}
+</g>
+{{- range .Labels}}
+<text x="{{f .X}}" y="{{f .Y}}" text-anchor="{{.Anchor}}"{{if .Off}} class="o"{{else if .Accent}} class="a"{{else if .Muted}} class="m"{{end}}>{{x .Text}}</text>
+{{- end}}
+</svg>

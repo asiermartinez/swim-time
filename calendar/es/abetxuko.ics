@@ -1,0 +1,1055 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swim-time//swimtime//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Piscina Pol. Abetxuko
+X-WR-CALDESC:Horas más tranquilas de Pol. Abetxuko\, según la ocupación 
+ típica de cada día de la semana.
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZNAME:CEST
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+DTSTART:19961027T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CET
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:abetxuko-20261023-1@swim-time
+DTSTAMP:20261023T210323Z
+DTSTART;TZID=Europe/Madrid:20261023T133000
+DTEND;TZID=Europe/Madrid:20261023T143000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un viernes típico hay unas 10 personas en esta 
+ hora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261023-2@swim-time
+DTSTAMP:20261023T210323Z
+DTSTART;TZID=Europe/Madrid:20261023T080000
+DTEND;TZID=Europe/Madrid:20261023T090000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un viernes típico hay unas 10 personas en esta 
+ hora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261023-3@swim-time
+DTSTAMP:20261023T210323Z
+DTSTART;TZID=Europe/Madrid:20261023T153000
+DTEND;TZID=Europe/Madrid:20261023T163000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un viernes típico hay unas 15 personas en esta 
+ hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261024-1@swim-time
+DTSTAMP:20261024T210256Z
+DTSTART;TZID=Europe/Madrid:20261024T143000
+DTEND;TZID=Europe/Madrid:20261024T153000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un sábado típico hay unas 6 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261024-2@swim-time
+DTSTAMP:20261024T210256Z
+DTSTART;TZID=Europe/Madrid:20261024T080000
+DTEND;TZID=Europe/Madrid:20261024T090000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un sábado típico hay unas 8 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261024-3@swim-time
+DTSTAMP:20261024T210256Z
+DTSTART;TZID=Europe/Madrid:20261024T203000
+DTEND;TZID=Europe/Madrid:20261024T213000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un sábado típico hay unas 10 personas en esta 
+ hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261025-1@swim-time
+DTSTAMP:20261025T210258Z
+DTSTART;TZID=Europe/Madrid:20261025T153000
+DTEND;TZID=Europe/Madrid:20261025T163000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un domingo típico hay unas 4 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261025-2@swim-time
+DTSTAMP:20261025T210258Z
+DTSTART;TZID=Europe/Madrid:20261025T180000
+DTEND;TZID=Europe/Madrid:20261025T190000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un domingo típico hay unas 7 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261025-3@swim-time
+DTSTAMP:20261025T210258Z
+DTSTART;TZID=Europe/Madrid:20261025T080000
+DTEND;TZID=Europe/Madrid:20261025T090000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un domingo típico hay unas 8 personas en esta h
+ ora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261026-1@swim-time
+DTSTAMP:20261026T210256Z
+DTSTART;TZID=Europe/Madrid:20261026T143000
+DTEND;TZID=Europe/Madrid:20261026T153000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un lunes típico hay unas 7 personas en esta hor
+ a (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261026-2@swim-time
+DTSTAMP:20261026T210256Z
+DTSTART;TZID=Europe/Madrid:20261026T080000
+DTEND;TZID=Europe/Madrid:20261026T090000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un lunes típico hay unas 9 personas en esta hor
+ a (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261026-3@swim-time
+DTSTAMP:20261026T210256Z
+DTSTART;TZID=Europe/Madrid:20261026T100000
+DTEND;TZID=Europe/Madrid:20261026T110000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un lunes típico hay unas 16 personas en esta ho
+ ra (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261027-1@swim-time
+DTSTAMP:20261027T210248Z
+DTSTART;TZID=Europe/Madrid:20261027T080000
+DTEND;TZID=Europe/Madrid:20261027T090000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un martes típico hay unas 5 personas en esta ho
+ ra (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261027-2@swim-time
+DTSTAMP:20261027T210248Z
+DTSTART;TZID=Europe/Madrid:20261027T143000
+DTEND;TZID=Europe/Madrid:20261027T153000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un martes típico hay unas 7 personas en esta ho
+ ra (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261027-3@swim-time
+DTSTAMP:20261027T210248Z
+DTSTART;TZID=Europe/Madrid:20261027T123000
+DTEND;TZID=Europe/Madrid:20261027T133000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un martes típico hay unas 14 personas en esta h
+ ora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261028-1@swim-time
+DTSTAMP:20261028T210246Z
+DTSTART;TZID=Europe/Madrid:20261028T143000
+DTEND;TZID=Europe/Madrid:20261028T153000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un miércoles típico hay unas 6 personas en est
+ a hora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261028-2@swim-time
+DTSTAMP:20261028T210246Z
+DTSTART;TZID=Europe/Madrid:20261028T080000
+DTEND;TZID=Europe/Madrid:20261028T090000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un miércoles típico hay unas 8 personas en est
+ a hora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261028-3@swim-time
+DTSTAMP:20261028T210246Z
+DTSTART;TZID=Europe/Madrid:20261028T163000
+DTEND;TZID=Europe/Madrid:20261028T173000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un miércoles típico hay unas 12 personas en es
+ ta hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261029-1@swim-time
+DTSTAMP:20261029T210257Z
+DTSTART;TZID=Europe/Madrid:20261029T080000
+DTEND;TZID=Europe/Madrid:20261029T090000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un jueves típico hay unas 8 personas en esta ho
+ ra (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261029-2@swim-time
+DTSTAMP:20261029T210257Z
+DTSTART;TZID=Europe/Madrid:20261029T143000
+DTEND;TZID=Europe/Madrid:20261029T153000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un jueves típico hay unas 8 personas en esta ho
+ ra (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261029-3@swim-time
+DTSTAMP:20261029T210257Z
+DTSTART;TZID=Europe/Madrid:20261029T123000
+DTEND;TZID=Europe/Madrid:20261029T133000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un jueves típico hay unas 18 personas en esta h
+ ora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261030-1@swim-time
+DTSTAMP:20261030T210159Z
+DTSTART;TZID=Europe/Madrid:20261030T080000
+DTEND;TZID=Europe/Madrid:20261030T090000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un viernes típico hay unas 10 personas en esta 
+ hora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261030-2@swim-time
+DTSTAMP:20261030T210159Z
+DTSTART;TZID=Europe/Madrid:20261030T143000
+DTEND;TZID=Europe/Madrid:20261030T153000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un viernes típico hay unas 10 personas en esta 
+ hora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261030-3@swim-time
+DTSTAMP:20261030T210159Z
+DTSTART;TZID=Europe/Madrid:20261030T123000
+DTEND;TZID=Europe/Madrid:20261030T133000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un viernes típico hay unas 15 personas en esta 
+ hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261031-1@swim-time
+DTSTAMP:20261031T210211Z
+DTSTART;TZID=Europe/Madrid:20261031T153000
+DTEND;TZID=Europe/Madrid:20261031T163000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un sábado típico hay unas 7 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261031-2@swim-time
+DTSTAMP:20261031T210211Z
+DTSTART;TZID=Europe/Madrid:20261031T080000
+DTEND;TZID=Europe/Madrid:20261031T090000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un sábado típico hay unas 8 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261031-3@swim-time
+DTSTAMP:20261031T210211Z
+DTSTART;TZID=Europe/Madrid:20261031T203000
+DTEND;TZID=Europe/Madrid:20261031T213000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un sábado típico hay unas 10 personas en esta 
+ hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261101-1@swim-time
+DTSTAMP:20261101T210212Z
+DTSTART;TZID=Europe/Madrid:20261101T153000
+DTEND;TZID=Europe/Madrid:20261101T163000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un domingo típico hay unas 6 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261101-2@swim-time
+DTSTAMP:20261101T210212Z
+DTSTART;TZID=Europe/Madrid:20261101T180000
+DTEND;TZID=Europe/Madrid:20261101T190000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un domingo típico hay unas 7 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261101-3@swim-time
+DTSTAMP:20261101T210212Z
+DTSTART;TZID=Europe/Madrid:20261101T080000
+DTEND;TZID=Europe/Madrid:20261101T090000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un domingo típico hay unas 8 personas en esta h
+ ora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261102-1@swim-time
+DTSTAMP:20261102T210219Z
+DTSTART;TZID=Europe/Madrid:20261102T143000
+DTEND;TZID=Europe/Madrid:20261102T153000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un lunes típico hay unas 6 personas en esta hor
+ a (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261102-2@swim-time
+DTSTAMP:20261102T210219Z
+DTSTART;TZID=Europe/Madrid:20261102T080000
+DTEND;TZID=Europe/Madrid:20261102T090000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un lunes típico hay unas 9 personas en esta hor
+ a (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261102-3@swim-time
+DTSTAMP:20261102T210219Z
+DTSTART;TZID=Europe/Madrid:20261102T100000
+DTEND;TZID=Europe/Madrid:20261102T110000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un lunes típico hay unas 16 personas en esta ho
+ ra (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261103-1@swim-time
+DTSTAMP:20261103T210159Z
+DTSTART;TZID=Europe/Madrid:20261103T080000
+DTEND;TZID=Europe/Madrid:20261103T090000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un martes típico hay unas 5 personas en esta ho
+ ra (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261103-2@swim-time
+DTSTAMP:20261103T210159Z
+DTSTART;TZID=Europe/Madrid:20261103T143000
+DTEND;TZID=Europe/Madrid:20261103T153000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un martes típico hay unas 7 personas en esta ho
+ ra (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261103-3@swim-time
+DTSTAMP:20261103T210159Z
+DTSTART;TZID=Europe/Madrid:20261103T123000
+DTEND;TZID=Europe/Madrid:20261103T133000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un martes típico hay unas 15 personas en esta h
+ ora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261104-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261104T143000
+DTEND;TZID=Europe/Madrid:20261104T153000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un miércoles típico hay unas 6 personas en est
+ a hora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261104-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261104T080000
+DTEND;TZID=Europe/Madrid:20261104T090000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un miércoles típico hay unas 7 personas en est
+ a hora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261104-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261104T163000
+DTEND;TZID=Europe/Madrid:20261104T173000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un miércoles típico hay unas 12 personas en es
+ ta hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261105-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261105T080000
+DTEND;TZID=Europe/Madrid:20261105T090000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un jueves típico hay unas 8 personas en esta ho
+ ra (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261105-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261105T143000
+DTEND;TZID=Europe/Madrid:20261105T153000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un jueves típico hay unas 8 personas en esta ho
+ ra (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261105-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261105T123000
+DTEND;TZID=Europe/Madrid:20261105T133000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un jueves típico hay unas 18 personas en esta h
+ ora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261106-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261106T080000
+DTEND;TZID=Europe/Madrid:20261106T090000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un viernes típico hay unas 10 personas en esta 
+ hora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261106-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261106T143000
+DTEND;TZID=Europe/Madrid:20261106T153000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un viernes típico hay unas 10 personas en esta 
+ hora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261106-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261106T123000
+DTEND;TZID=Europe/Madrid:20261106T133000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un viernes típico hay unas 15 personas en esta 
+ hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261107-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261107T153000
+DTEND;TZID=Europe/Madrid:20261107T163000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un sábado típico hay unas 7 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261107-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261107T080000
+DTEND;TZID=Europe/Madrid:20261107T090000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un sábado típico hay unas 8 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261107-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261107T203000
+DTEND;TZID=Europe/Madrid:20261107T213000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un sábado típico hay unas 10 personas en esta 
+ hora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261108-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261108T153000
+DTEND;TZID=Europe/Madrid:20261108T163000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un domingo típico hay unas 6 personas en esta h
+ ora (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261108-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261108T180000
+DTEND;TZID=Europe/Madrid:20261108T190000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un domingo típico hay unas 7 personas en esta h
+ ora (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261108-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261108T080000
+DTEND;TZID=Europe/Madrid:20261108T090000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un domingo típico hay unas 8 personas en esta h
+ ora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261109-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261109T143000
+DTEND;TZID=Europe/Madrid:20261109T153000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un lunes típico hay unas 6 personas en esta hor
+ a (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261109-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261109T080000
+DTEND;TZID=Europe/Madrid:20261109T090000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un lunes típico hay unas 9 personas en esta hor
+ a (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261109-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261109T100000
+DTEND;TZID=Europe/Madrid:20261109T110000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un lunes típico hay unas 16 personas en esta ho
+ ra (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261110-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261110T080000
+DTEND;TZID=Europe/Madrid:20261110T090000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:Pol. Abetxuko: un martes típico hay unas 5 personas en esta ho
+ ra (aforo 180). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261110-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261110T143000
+DTEND;TZID=Europe/Madrid:20261110T153000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:Pol. Abetxuko: un martes típico hay unas 7 personas en esta ho
+ ra (aforo 180). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abetxuko-20261110-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261110T123000
+DTEND;TZID=Europe/Madrid:20261110T133000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:Pol. Abetxuko: un martes típico hay unas 15 personas en esta h
+ ora (aforo 180). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_4_1
+LOCATION:Pol. Abetxuko\nCalle La Ribera\, 3-F\, 01013 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle La Ribera, 3-F, 0101
+ 3 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol
+ . Abetxuko":geo:42.8755,-2.6752
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

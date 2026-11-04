@@ -1,0 +1,407 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swim-time//swimtime//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pol. San Andrés pool
+X-WR-CALDESC:Quietest hours of Pol. San Andrés\, based on the typical occu
+ pancy of each day of the week.
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZNAME:CEST
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+DTSTART:19961027T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CET
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:san-andres-20261104-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261104T100000
+DTEND;TZID=Europe/Madrid:20261104T110000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:Pol. San Andrés: on a typical Wednesday there are about 28 peo
+ ple at this time (capacity 180). It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261104-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261104T140000
+DTEND;TZID=Europe/Madrid:20261104T150000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:Pol. San Andrés: on a typical Wednesday there are about 30 peo
+ ple at this time (capacity 180). It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261104-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261104T080000
+DTEND;TZID=Europe/Madrid:20261104T090000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:Pol. San Andrés: on a typical Wednesday there are about 31 peo
+ ple at this time (capacity 180). It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261105-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261105T150000
+DTEND;TZID=Europe/Madrid:20261105T160000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:Pol. San Andrés: on a typical Thursday there are about 20 peop
+ le at this time (capacity 180). It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261105-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261105T130000
+DTEND;TZID=Europe/Madrid:20261105T140000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:Pol. San Andrés: on a typical Thursday there are about 22 peop
+ le at this time (capacity 180). It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261105-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261105T100000
+DTEND;TZID=Europe/Madrid:20261105T110000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:Pol. San Andrés: on a typical Thursday there are about 24 peop
+ le at this time (capacity 180). It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261106-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261106T080000
+DTEND;TZID=Europe/Madrid:20261106T090000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:Pol. San Andrés: on a typical Friday there are about 24 people
+  at this time (capacity 180). It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261106-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261106T143000
+DTEND;TZID=Europe/Madrid:20261106T153000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:Pol. San Andrés: on a typical Friday there are about 25 people
+  at this time (capacity 180). It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261106-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261106T100000
+DTEND;TZID=Europe/Madrid:20261106T110000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:Pol. San Andrés: on a typical Friday there are about 26 people
+  at this time (capacity 180). It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261107-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261107T090000
+DTEND;TZID=Europe/Madrid:20261107T100000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:Pol. San Andrés: on a typical Saturday there are about 20 peop
+ le at this time (capacity 180). It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261107-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261107T163000
+DTEND;TZID=Europe/Madrid:20261107T173000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:Pol. San Andrés: on a typical Saturday there are about 23 peop
+ le at this time (capacity 180). It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261107-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261107T183000
+DTEND;TZID=Europe/Madrid:20261107T193000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:Pol. San Andrés: on a typical Saturday there are about 24 peop
+ le at this time (capacity 180). It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261108-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261108T160000
+DTEND;TZID=Europe/Madrid:20261108T170000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:Pol. San Andrés: on a typical Sunday there are about 15 people
+  at this time (capacity 180). It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261108-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261108T090000
+DTEND;TZID=Europe/Madrid:20261108T100000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:Pol. San Andrés: on a typical Sunday there are about 16 people
+  at this time (capacity 180). It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261108-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261108T140000
+DTEND;TZID=Europe/Madrid:20261108T150000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:Pol. San Andrés: on a typical Sunday there are about 17 people
+  at this time (capacity 180). It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261109-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261109T143000
+DTEND;TZID=Europe/Madrid:20261109T153000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:Pol. San Andrés: on a typical Monday there are about 24 people
+  at this time (capacity 180). It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261109-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261109T100000
+DTEND;TZID=Europe/Madrid:20261109T110000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:Pol. San Andrés: on a typical Monday there are about 25 people
+  at this time (capacity 180). It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261109-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261109T123000
+DTEND;TZID=Europe/Madrid:20261109T133000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:Pol. San Andrés: on a typical Monday there are about 28 people
+  at this time (capacity 180). It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261110-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261110T143000
+DTEND;TZID=Europe/Madrid:20261110T153000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:Pol. San Andrés: on a typical Tuesday there are about 21 peopl
+ e at this time (capacity 180). It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261110-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261110T123000
+DTEND;TZID=Europe/Madrid:20261110T133000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:Pol. San Andrés: on a typical Tuesday there are about 27 peopl
+ e at this time (capacity 180). It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:san-andres-20261110-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261110T100000
+DTEND;TZID=Europe/Madrid:20261110T110000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:Pol. San Andrés: on a typical Tuesday there are about 28 peopl
+ e at this time (capacity 180). It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_8_3_2_1
+LOCATION:Pol. San Andrés\nCalle Argentina\, 7\, 01009 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle Argentina, 7, 01009 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="Pol. 
+ San Andrés":geo:42.85535,-2.68372
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

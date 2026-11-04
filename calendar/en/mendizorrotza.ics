@@ -1,0 +1,428 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swim-time//swimtime//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:C.D. Mendizorrotza pool
+X-WR-CALDESC:Quietest hours of C.D. Mendizorrotza\, based on the typical oc
+ cupancy of each day of the week.
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZNAME:CEST
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+DTSTART:19961027T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZNAME:CET
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:mendizorrotza-20261104-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261104T060000
+DTEND;TZID=Europe/Madrid:20261104T070000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Wednesday there are about 8 pe
+ ople at this time. It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261104-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261104T080000
+DTEND;TZID=Europe/Madrid:20261104T090000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Wednesday there are about 50 p
+ eople at this time. It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261104-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261104T143000
+DTEND;TZID=Europe/Madrid:20261104T153000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Wednesday there are about 84 p
+ eople at this time. It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261105-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261105T060000
+DTEND;TZID=Europe/Madrid:20261105T070000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Thursday there are about 13 pe
+ ople at this time. It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261105-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261105T080000
+DTEND;TZID=Europe/Madrid:20261105T090000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Thursday there are about 51 pe
+ ople at this time. It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261105-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261105T140000
+DTEND;TZID=Europe/Madrid:20261105T150000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Thursday there are about 51 pe
+ ople at this time. It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261106-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261106T060000
+DTEND;TZID=Europe/Madrid:20261106T070000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Friday there are about 24 peop
+ le at this time. It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261106-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261106T080000
+DTEND;TZID=Europe/Madrid:20261106T090000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Friday there are about 55 peop
+ le at this time. It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261106-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261106T140000
+DTEND;TZID=Europe/Madrid:20261106T150000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Friday there are about 55 peop
+ le at this time. It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261107-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261107T203000
+DTEND;TZID=Europe/Madrid:20261107T213000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Saturday there are about 40 pe
+ ople at this time. It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261107-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261107T150000
+DTEND;TZID=Europe/Madrid:20261107T160000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Saturday there are about 57 pe
+ ople at this time. It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261107-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261107T080000
+DTEND;TZID=Europe/Madrid:20261107T090000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Saturday there are about 64 pe
+ ople at this time. It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261108-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261108T080000
+DTEND;TZID=Europe/Madrid:20261108T090000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Sunday there are about 22 peop
+ le at this time. It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261108-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261108T203000
+DTEND;TZID=Europe/Madrid:20261108T213000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Sunday there are about 52 peop
+ le at this time. It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261108-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261108T153000
+DTEND;TZID=Europe/Madrid:20261108T163000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Sunday there are about 56 peop
+ le at this time. It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261109-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261109T060000
+DTEND;TZID=Europe/Madrid:20261109T070000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Monday there are about 35 peop
+ le at this time. It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261109-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261109T140000
+DTEND;TZID=Europe/Madrid:20261109T150000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Monday there are about 48 peop
+ le at this time. It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261109-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261109T080000
+DTEND;TZID=Europe/Madrid:20261109T090000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Monday there are about 59 peop
+ le at this time. It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261110-1@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261110T060000
+DTEND;TZID=Europe/Madrid:20261110T070000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Tuesday there are about 18 peo
+ ple at this time. It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261110-2@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261110T080000
+DTEND;TZID=Europe/Madrid:20261110T090000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Tuesday there are about 55 peo
+ ple at this time. It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261110-3@swim-time
+DTSTAMP:20261104T100925Z
+DTSTART;TZID=Europe/Madrid:20261110T140000
+DTEND;TZID=Europe/Madrid:20261110T150000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Tuesday there are about 57 peo
+ ple at this time. It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

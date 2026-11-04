@@ -1,0 +1,61 @@
+name: render
+
+on:
+  # Daily after closing time: 23:00 in summer, 22:00 in winter.
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # Samples live on the data branch; swimtime reads them from ./data.
+      - uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+          fetch-depth: 1
+          persist-credentials: false
+
+      - id: bin
+        uses: actions/cache@v4
+        with:
+          path: bin/swimtime
+          key: swimtime-${{ runner.os }}-${{ hashFiles('go.mod', 'cmd/**') }}
+
+      - if: steps.bin.outputs.cache-hit != 'true'
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+          cache: false
+
+      - if: steps.bin.outputs.cache-hit != 'true'
+        run: CGO_ENABLED=0 go build -trimpath -ldflags='-s -w' -o bin/swimtime ./cmd/swimtime
+
+      - run: bin/swimtime render
+
+      - name: Commit
+        run: |
+          git add charts calendar README.md es
+          git diff --cached --quiet && exit 0
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit --quiet -m "render: $(TZ=Europe/Madrid date +'%Y-%m-%d')"
+          for i in 1 2 3; do
+            git pull --rebase --quiet && git push --quiet && exit 0
+            sleep 5
+          done
+          exit 1

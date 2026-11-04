@@ -1,0 +1,38 @@
+<!-- Generado por `swimtime render`. No editar a mano: los cambios se sobrescriben. -->
+
+# Piscinas Vitoria-Gasteiz
+
+[EN](../README.md) | **ES**
+
+Ocupación típica de las piscinas municipales cubiertas por día de la semana y franja de 30 minutos, calculada a partir de la ocupación en tiempo real que publica el Ayuntamiento. Las horas tranquilas también están disponibles como [calendarios](../calendar/es/README.md).
+
+Cada fila es un día típico: la línea muestra la ocupación de cada franja y la tira de debajo la sombrea de vacía (clara) a llena (oscura), con la escala a la derecha. Las columnas rayadas marcan las tres horas más tranquilas del día, separadas al menos dos horas entre sí, con la hora de inicio y el número típico de personas debajo; la más tranquila va en rojo. En el resumen, cada fila es una piscina con todos los días juntos y su propia escala; pulsa una fila para ir a su gráfica.
+{{- if .Partial}}
+
+> [!NOTE]
+> Todavía hay pocos datos ({{.Days}} de {{.WindowDays}} días). Las franjas se irán afinando con el tiempo.
+{{- end}}
+
+## Resumen
+
+<p>
+<img src="../charts/es/summary/hours.svg" alt="Horas del día">
+{{- range .Stats}}
+<a href="#{{anchor .Pool.Name}}"><img src="../charts/es/summary/{{.Pool.Slug}}.svg" alt="Ocupación típica de {{html .Pool.Name}}"></a>
+{{- end}}
+</p>
+{{range .Stats}}
+
+## {{.Pool.Name}}
+
+![Ocupación típica de {{.Pool.Name}}](../charts/es/{{.Pool.Slug}}.svg)
+{{- if not .HasData}}
+
+Sin datos {{if $.Partial}}desde que empezó el muestreo{{else}}en las últimas {{$.Weeks}} semanas{{end}}: puede que esté cerrada.
+{{- end}}
+{{- with .Pool.Note}}
+
+{{.}}
+{{- end}}
+{{end}}
+<sub>Actualizado el {{.Updated}} · Muestreo cada 15 min en horario de apertura</sub>
