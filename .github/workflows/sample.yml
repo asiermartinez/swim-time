@@ -4,6 +4,7 @@ on:
   # Every 15 min, 04:00–20:45 UTC: covers 06:00–21:30 in Vitoria in both
   # summer (UTC+2) and winter (UTC+1). The binary skips runs when every pool
   # is closed.
+  # GitHub can start scheduled runs late, or skip them when it is busy.
   schedule:
     - cron: "*/15 4-20 * * *"
   workflow_dispatch:
