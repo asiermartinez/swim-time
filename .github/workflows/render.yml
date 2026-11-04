@@ -2,6 +2,7 @@ name: render
 
 on:
   # Daily after closing time: 23:00 in summer, 22:00 in winter.
+  # GitHub can start scheduled runs late, or skip them when it is busy.
   schedule:
     - cron: "0 21 * * *"
   workflow_dispatch:
