@@ -9,7 +9,7 @@ Ocupación típica de las piscinas municipales cubiertas por día de la semana y
 Cada fila es un día típico: la línea muestra la ocupación de cada franja y la tira de debajo la sombrea de vacía (clara) a llena (oscura), con la escala a la derecha. Las columnas rayadas marcan las tres horas más tranquilas del día, separadas al menos dos horas entre sí, con la hora de inicio y el número típico de personas debajo; la más tranquila va en rojo. En el resumen, cada fila es una piscina con todos los días juntos y su propia escala; pulsa una fila para ir a su gráfica.
 
 > [!NOTE]
-> Todavía hay pocos datos (42 de 56 días). Las franjas se irán afinando con el tiempo.
+> Todavía hay pocos datos (43 de 56 días). Las franjas se irán afinando con el tiempo.
 
 ## Resumen
 
@@ -17,8 +17,8 @@ Cada fila es un día típico: la línea muestra la ocupación de cada franja y l
 <img src="../charts/es/summary/hours.svg" alt="Horas del día">
 <a href="#cc-zabalgana"><img src="../charts/es/summary/zabalgana.svg" alt="Ocupación típica de C.C. Zabalgana"></a>
 <a href="#pol-abetxuko"><img src="../charts/es/summary/abetxuko.svg" alt="Ocupación típica de Pol. Abetxuko"></a>
-<a href="#cc-hegoalde"><img src="../charts/es/summary/hegoalde.svg" alt="Ocupación típica de C.C. Hegoalde"></a>
 <a href="#cc-salburua"><img src="../charts/es/summary/salburua.svg" alt="Ocupación típica de C.C. Salburua"></a>
+<a href="#cc-hegoalde"><img src="../charts/es/summary/hegoalde.svg" alt="Ocupación típica de C.C. Hegoalde"></a>
 <a href="#cc-lakua"><img src="../charts/es/summary/lakua.svg" alt="Ocupación típica de C.C. Lakua"></a>
 <a href="#cc-aldabe"><img src="../charts/es/summary/aldabe.svg" alt="Ocupación típica de C.C. Aldabe"></a>
 <a href="#cc-iparralde"><img src="../charts/es/summary/iparralde.svg" alt="Ocupación típica de C.C. Iparralde"></a>
@@ -39,14 +39,14 @@ Cada fila es un día típico: la línea muestra la ocupación de cada franja y l
 ![Ocupación típica de Pol. Abetxuko](../charts/es/abetxuko.svg)
 
 
-## C.C. Hegoalde
-
-![Ocupación típica de C.C. Hegoalde](../charts/es/hegoalde.svg)
-
-
 ## C.C. Salburua
 
 ![Ocupación típica de C.C. Salburua](../charts/es/salburua.svg)
+
+
+## C.C. Hegoalde
+
+![Ocupación típica de C.C. Hegoalde](../charts/es/hegoalde.svg)
 
 
 ## C.C. Lakua
@@ -87,4 +87,4 @@ La piscina olímpica se configura en 50 metros (10 calles) los viernes de 15:00 
 
 Sin datos desde que empezó el muestreo: puede que esté cerrada.
 
-<sub>Actualizado el 06/11/2026 22:01 · Muestreo cada 15 min en horario de apertura</sub>
+<sub>Actualizado el 07/11/2026 22:01 · Muestreo cada 15 min en horario de apertura</sub>

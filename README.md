@@ -9,7 +9,7 @@ Typical occupancy of the indoor municipal pools by day of the week and 30-minute
 Each row is a typical day: the line shows the occupancy of each slot and the strip below shades it from empty (light) to full (dark), with the scale on the right. The hatched columns mark the three quietest hours of the day, at least two hours apart, with the start time and the typical number of people below; the quietest is in red. In the summary, each row is a pool with all days combined and its own scale; click a row to go to its chart.
 
 > [!NOTE]
-> There is little data so far (42 of 56 days). The slots will get more accurate over time.
+> There is little data so far (43 of 56 days). The slots will get more accurate over time.
 
 ## Summary
 
@@ -17,8 +17,8 @@ Each row is a typical day: the line shows the occupancy of each slot and the str
 <img src="charts/en/summary/hours.svg" alt="Hours of the day">
 <a href="#cc-zabalgana"><img src="charts/en/summary/zabalgana.svg" alt="Typical occupancy of C.C. Zabalgana"></a>
 <a href="#pol-abetxuko"><img src="charts/en/summary/abetxuko.svg" alt="Typical occupancy of Pol. Abetxuko"></a>
-<a href="#cc-hegoalde"><img src="charts/en/summary/hegoalde.svg" alt="Typical occupancy of C.C. Hegoalde"></a>
 <a href="#cc-salburua"><img src="charts/en/summary/salburua.svg" alt="Typical occupancy of C.C. Salburua"></a>
+<a href="#cc-hegoalde"><img src="charts/en/summary/hegoalde.svg" alt="Typical occupancy of C.C. Hegoalde"></a>
 <a href="#cc-lakua"><img src="charts/en/summary/lakua.svg" alt="Typical occupancy of C.C. Lakua"></a>
 <a href="#cc-aldabe"><img src="charts/en/summary/aldabe.svg" alt="Typical occupancy of C.C. Aldabe"></a>
 <a href="#cc-iparralde"><img src="charts/en/summary/iparralde.svg" alt="Typical occupancy of C.C. Iparralde"></a>
@@ -39,14 +39,14 @@ Each row is a typical day: the line shows the occupancy of each slot and the str
 ![Typical occupancy of Pol. Abetxuko](charts/en/abetxuko.svg)
 
 
-## C.C. Hegoalde
-
-![Typical occupancy of C.C. Hegoalde](charts/en/hegoalde.svg)
-
-
 ## C.C. Salburua
 
 ![Typical occupancy of C.C. Salburua](charts/en/salburua.svg)
+
+
+## C.C. Hegoalde
+
+![Typical occupancy of C.C. Hegoalde](charts/en/hegoalde.svg)
 
 
 ## C.C. Lakua
@@ -87,4 +87,4 @@ The Olympic pool is set up as 50 metres (10 lanes) on Fridays from 15:00 to 21:3
 
 No data since sampling began: it may be closed.
 
-<sub>Updated 06/11/2026 22:01 · Sampled every 15 min during opening hours</sub>
+<sub>Updated 07/11/2026 22:01 · Sampled every 15 min during opening hours</sub>
