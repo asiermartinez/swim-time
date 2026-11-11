@@ -1111,11 +1111,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261111-1@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261111T060000
 DTEND;TZID=Europe/Madrid:20261111T070000
 SUMMARY:Piscina (Hora tranquila #1)
-DESCRIPTION:C.D. Mendizorrotza: un miércoles típico hay unas 8 personas e
+DESCRIPTION:C.D. Mendizorrotza: un miércoles típico hay unas 7 personas e
  n esta hora. Es la 1ª hora más tranquila del día.
 URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
  uid=u_5a9799f5_12dc5ee1ab6__7fbf
@@ -1130,11 +1130,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261111-2@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261111T080000
 DTEND;TZID=Europe/Madrid:20261111T090000
 SUMMARY:Piscina (Hora tranquila #2)
-DESCRIPTION:C.D. Mendizorrotza: un miércoles típico hay unas 50 personas 
+DESCRIPTION:C.D. Mendizorrotza: un miércoles típico hay unas 36 personas 
  en esta hora. Es la 2ª hora más tranquila del día.
 URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
  uid=u_5a9799f5_12dc5ee1ab6__7fbf
@@ -1149,11 +1149,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261111-3@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261111T143000
 DTEND;TZID=Europe/Madrid:20261111T153000
 SUMMARY:Piscina (Hora tranquila #3)
-DESCRIPTION:C.D. Mendizorrotza: un miércoles típico hay unas 84 personas 
+DESCRIPTION:C.D. Mendizorrotza: un miércoles típico hay unas 77 personas 
  en esta hora. Es la 3ª hora más tranquila del día.
 URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
  uid=u_5a9799f5_12dc5ee1ab6__7fbf
@@ -1168,7 +1168,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261112-1@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261112T060000
 DTEND;TZID=Europe/Madrid:20261112T070000
 SUMMARY:Piscina (Hora tranquila #1)
@@ -1187,7 +1187,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261112-2@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261112T080000
 DTEND;TZID=Europe/Madrid:20261112T090000
 SUMMARY:Piscina (Hora tranquila #2)
@@ -1206,7 +1206,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261112-3@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261112T140000
 DTEND;TZID=Europe/Madrid:20261112T150000
 SUMMARY:Piscina (Hora tranquila #3)
@@ -1225,7 +1225,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261113-1@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261113T060000
 DTEND;TZID=Europe/Madrid:20261113T070000
 SUMMARY:Piscina (Hora tranquila #1)
@@ -1244,7 +1244,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261113-2@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261113T080000
 DTEND;TZID=Europe/Madrid:20261113T090000
 SUMMARY:Piscina (Hora tranquila #2)
@@ -1263,7 +1263,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261113-3@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261113T140000
 DTEND;TZID=Europe/Madrid:20261113T150000
 SUMMARY:Piscina (Hora tranquila #3)
@@ -1282,7 +1282,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261114-1@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261114T203000
 DTEND;TZID=Europe/Madrid:20261114T213000
 SUMMARY:Piscina (Hora tranquila #1)
@@ -1301,7 +1301,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261114-2@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261114T150000
 DTEND;TZID=Europe/Madrid:20261114T160000
 SUMMARY:Piscina (Hora tranquila #2)
@@ -1320,7 +1320,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261114-3@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261114T080000
 DTEND;TZID=Europe/Madrid:20261114T090000
 SUMMARY:Piscina (Hora tranquila #3)
@@ -1339,7 +1339,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261115-1@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261115T080000
 DTEND;TZID=Europe/Madrid:20261115T090000
 SUMMARY:Piscina (Hora tranquila #1)
@@ -1358,7 +1358,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261115-2@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261115T153000
 DTEND;TZID=Europe/Madrid:20261115T163000
 SUMMARY:Piscina (Hora tranquila #2)
@@ -1377,7 +1377,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261115-3@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261115T203000
 DTEND;TZID=Europe/Madrid:20261115T213000
 SUMMARY:Piscina (Hora tranquila #3)
@@ -1396,7 +1396,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261116-1@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261116T060000
 DTEND;TZID=Europe/Madrid:20261116T070000
 SUMMARY:Piscina (Hora tranquila #1)
@@ -1415,7 +1415,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261116-2@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261116T140000
 DTEND;TZID=Europe/Madrid:20261116T150000
 SUMMARY:Piscina (Hora tranquila #2)
@@ -1434,12 +1434,69 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261116-3@swim-time
-DTSTAMP:20261110T210154Z
+DTSTAMP:20261111T210953Z
 DTSTART;TZID=Europe/Madrid:20261116T080000
 DTEND;TZID=Europe/Madrid:20261116T090000
 SUMMARY:Piscina (Hora tranquila #3)
 DESCRIPTION:C.D. Mendizorrotza: un lunes típico hay unas 59 personas en es
  ta hora. Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261117-1@swim-time
+DTSTAMP:20261111T210953Z
+DTSTART;TZID=Europe/Madrid:20261117T060000
+DTEND;TZID=Europe/Madrid:20261117T070000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.D. Mendizorrotza: un martes típico hay unas 18 personas en e
+ sta hora. Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261117-2@swim-time
+DTSTAMP:20261111T210953Z
+DTSTART;TZID=Europe/Madrid:20261117T080000
+DTEND;TZID=Europe/Madrid:20261117T090000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.D. Mendizorrotza: un martes típico hay unas 56 personas en e
+ sta hora. Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261117-3@swim-time
+DTSTAMP:20261111T210953Z
+DTSTART;TZID=Europe/Madrid:20261117T140000
+DTEND;TZID=Europe/Madrid:20261117T150000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.D. Mendizorrotza: un martes típico hay unas 57 personas en e
+ sta hora. Es la 3ª hora más tranquila del día.
 URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
  uid=u_5a9799f5_12dc5ee1ab6__7fbf
 LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
