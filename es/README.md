@@ -9,7 +9,7 @@ Ocupación típica de las piscinas municipales cubiertas por día de la semana y
 Cada fila es un día típico: la línea muestra la ocupación de cada franja y la tira de debajo la sombrea de vacía (clara) a llena (oscura), con la escala a la derecha. Las columnas rayadas marcan las tres horas más tranquilas del día, separadas al menos dos horas entre sí, con la hora de inicio y el número típico de personas debajo; la más tranquila va en rojo. En el resumen, cada fila es una piscina con todos los días juntos y su propia escala; pulsa una fila para ir a su gráfica.
 
 > [!NOTE]
-> Todavía hay pocos datos (47 de 56 días). Las franjas se irán afinando con el tiempo.
+> Todavía hay pocos datos (48 de 56 días). Las franjas se irán afinando con el tiempo.
 
 ## Resumen
 
@@ -87,4 +87,4 @@ La piscina olímpica se configura en 50 metros (10 calles) los viernes de 15:00 
 
 Sin datos desde que empezó el muestreo: puede que esté cerrada.
 
-<sub>Actualizado el 11/11/2026 22:09 · Muestreo cada 15 min en horario de apertura</sub>
+<sub>Actualizado el 12/11/2026 22:01 · Muestreo cada 15 min en horario de apertura</sub>
