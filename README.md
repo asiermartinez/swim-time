@@ -9,7 +9,7 @@ Typical occupancy of the indoor municipal pools by day of the week and 30-minute
 Each row is a typical day: the line shows the occupancy of each slot and the strip below shades it from empty (light) to full (dark), with the scale on the right. The hatched columns mark the three quietest hours of the day, at least two hours apart, with the start time and the typical number of people below; the quietest is in red. In the summary, each row is a pool with all days combined and its own scale; click a row to go to its chart.
 
 > [!NOTE]
-> There is little data so far (48 of 56 days). The slots will get more accurate over time.
+> There is little data so far (49 of 56 days). The slots will get more accurate over time.
 
 ## Summary
 
@@ -87,4 +87,4 @@ The Olympic pool is set up as 50 metres (10 lanes) on Fridays from 15:00 to 21:3
 
 No data since sampling began: it may be closed.
 
-<sub>Updated 12/11/2026 22:01 · Sampled every 15 min during opening hours</sub>
+<sub>Updated 13/11/2026 22:01 · Sampled every 15 min during opening hours</sub>
