@@ -826,11 +826,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261118-1@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261118T060000
 DTEND;TZID=Europe/Madrid:20261118T070000
 SUMMARY:Pool (Quiet hour #1)
-DESCRIPTION:C.D. Mendizorrotza: on a typical Wednesday there are about 7 pe
+DESCRIPTION:C.D. Mendizorrotza: on a typical Wednesday there are about 5 pe
  ople at this time. It is the #1 quietest hour of the day.
 URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
  uid=u_5a9799f5_12dc5ee1ab6__7fbf
@@ -845,11 +845,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261118-2@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261118T080000
 DTEND;TZID=Europe/Madrid:20261118T090000
 SUMMARY:Pool (Quiet hour #2)
-DESCRIPTION:C.D. Mendizorrotza: on a typical Wednesday there are about 36 p
+DESCRIPTION:C.D. Mendizorrotza: on a typical Wednesday there are about 41 p
  eople at this time. It is the #2 quietest hour of the day.
 URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
  uid=u_5a9799f5_12dc5ee1ab6__7fbf
@@ -864,11 +864,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261118-3@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261118T143000
 DTEND;TZID=Europe/Madrid:20261118T153000
 SUMMARY:Pool (Quiet hour #3)
-DESCRIPTION:C.D. Mendizorrotza: on a typical Wednesday there are about 77 p
+DESCRIPTION:C.D. Mendizorrotza: on a typical Wednesday there are about 74 p
  eople at this time. It is the #3 quietest hour of the day.
 URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
  uid=u_5a9799f5_12dc5ee1ab6__7fbf
@@ -883,7 +883,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261119-1@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261119T060000
 DTEND;TZID=Europe/Madrid:20261119T070000
 SUMMARY:Pool (Quiet hour #1)
@@ -902,7 +902,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261119-2@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261119T080000
 DTEND;TZID=Europe/Madrid:20261119T090000
 SUMMARY:Pool (Quiet hour #2)
@@ -921,7 +921,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261119-3@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261119T140000
 DTEND;TZID=Europe/Madrid:20261119T150000
 SUMMARY:Pool (Quiet hour #3)
@@ -940,7 +940,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261120-1@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261120T060000
 DTEND;TZID=Europe/Madrid:20261120T070000
 SUMMARY:Pool (Quiet hour #1)
@@ -959,7 +959,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261120-2@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261120T140000
 DTEND;TZID=Europe/Madrid:20261120T150000
 SUMMARY:Pool (Quiet hour #2)
@@ -978,7 +978,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261120-3@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261120T080000
 DTEND;TZID=Europe/Madrid:20261120T090000
 SUMMARY:Pool (Quiet hour #3)
@@ -997,7 +997,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261121-1@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261121T203000
 DTEND;TZID=Europe/Madrid:20261121T213000
 SUMMARY:Pool (Quiet hour #1)
@@ -1016,7 +1016,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261121-2@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261121T150000
 DTEND;TZID=Europe/Madrid:20261121T160000
 SUMMARY:Pool (Quiet hour #2)
@@ -1035,7 +1035,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261121-3@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261121T170000
 DTEND;TZID=Europe/Madrid:20261121T180000
 SUMMARY:Pool (Quiet hour #3)
@@ -1054,7 +1054,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261122-1@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261122T080000
 DTEND;TZID=Europe/Madrid:20261122T090000
 SUMMARY:Pool (Quiet hour #1)
@@ -1073,7 +1073,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261122-2@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261122T153000
 DTEND;TZID=Europe/Madrid:20261122T163000
 SUMMARY:Pool (Quiet hour #2)
@@ -1092,7 +1092,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261122-3@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261122T203000
 DTEND;TZID=Europe/Madrid:20261122T213000
 SUMMARY:Pool (Quiet hour #3)
@@ -1111,7 +1111,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261123-1@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261123T060000
 DTEND;TZID=Europe/Madrid:20261123T070000
 SUMMARY:Pool (Quiet hour #1)
@@ -1130,7 +1130,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261123-2@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261123T140000
 DTEND;TZID=Europe/Madrid:20261123T150000
 SUMMARY:Pool (Quiet hour #2)
@@ -1149,12 +1149,69 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mendizorrotza-20261123-3@swim-time
-DTSTAMP:20261117T210148Z
+DTSTAMP:20261118T210130Z
 DTSTART;TZID=Europe/Madrid:20261123T080000
 DTEND;TZID=Europe/Madrid:20261123T090000
 SUMMARY:Pool (Quiet hour #3)
 DESCRIPTION:C.D. Mendizorrotza: on a typical Monday there are about 61 peop
  le at this time. It is the #3 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261124-1@swim-time
+DTSTAMP:20261118T210130Z
+DTSTART;TZID=Europe/Madrid:20261124T060000
+DTEND;TZID=Europe/Madrid:20261124T070000
+SUMMARY:Pool (Quiet hour #1)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Tuesday there are about 18 peo
+ ple at this time. It is the #1 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261124-2@swim-time
+DTSTAMP:20261118T210130Z
+DTSTART;TZID=Europe/Madrid:20261124T140000
+DTEND;TZID=Europe/Madrid:20261124T150000
+SUMMARY:Pool (Quiet hour #2)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Tuesday there are about 56 peo
+ ple at this time. It is the #2 quietest hour of the day.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=u_5a9799f5_12dc5ee1ab6__7fbf
+LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
+ a-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Calle José Luis Compañó
+ n, 1, 01007 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-
+ TITLE="C.D. Mendizorrotza":geo:42.83777,-2.68518
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mendizorrotza-20261124-3@swim-time
+DTSTAMP:20261118T210130Z
+DTSTART;TZID=Europe/Madrid:20261124T080000
+DTEND;TZID=Europe/Madrid:20261124T090000
+SUMMARY:Pool (Quiet hour #3)
+DESCRIPTION:C.D. Mendizorrotza: on a typical Tuesday there are about 56 peo
+ ple at this time. It is the #3 quietest hour of the day.
 URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
  uid=u_5a9799f5_12dc5ee1ab6__7fbf
 LOCATION:C.D. Mendizorrotza\nCalle José Luis Compañón\, 1\, 01007 Vitori
