@@ -27,60 +27,6 @@ TZOFFSETTO:+0100
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:iparralde-20261026-1@swim-time
-DTSTAMP:20261026T210256Z
-DTSTART;TZID=Europe/Madrid:20261026T143000
-DTEND;TZID=Europe/Madrid:20261026T153000
-SUMMARY:Piscina (Hora tranquila #1)
-DESCRIPTION:C.C. Iparralde: un lunes típico hay unas 13 personas en esta h
- ora (aforo 182). Es la 1ª hora más tranquila del día.
-URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
- uid=entuo_1_9_4_3
-LOCATION:C.C. Iparralde\nPlaza Zuberoa\, s/n\, 01002 Vitoria-Gasteiz
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Plaza Zuberoa, s/n, 01002 
- Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="C.C. 
- Iparralde":geo:42.85507,-2.66751
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:iparralde-20261026-2@swim-time
-DTSTAMP:20261026T210256Z
-DTSTART;TZID=Europe/Madrid:20261026T113000
-DTEND;TZID=Europe/Madrid:20261026T123000
-SUMMARY:Piscina (Hora tranquila #2)
-DESCRIPTION:C.C. Iparralde: un lunes típico hay unas 17 personas en esta h
- ora (aforo 182). Es la 2ª hora más tranquila del día.
-URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
- uid=entuo_1_9_4_3
-LOCATION:C.C. Iparralde\nPlaza Zuberoa\, s/n\, 01002 Vitoria-Gasteiz
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Plaza Zuberoa, s/n, 01002 
- Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="C.C. 
- Iparralde":geo:42.85507,-2.66751
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:iparralde-20261026-3@swim-time
-DTSTAMP:20261026T210256Z
-DTSTART;TZID=Europe/Madrid:20261026T093000
-DTEND;TZID=Europe/Madrid:20261026T103000
-SUMMARY:Piscina (Hora tranquila #3)
-DESCRIPTION:C.C. Iparralde: un lunes típico hay unas 24 personas en esta h
- ora (aforo 182). Es la 3ª hora más tranquila del día.
-URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
- uid=entuo_1_9_4_3
-LOCATION:C.C. Iparralde\nPlaza Zuberoa\, s/n\, 01002 Vitoria-Gasteiz
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Plaza Zuberoa, s/n, 01002 
- Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="C.C. 
- Iparralde":geo:42.85507,-2.66751
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:iparralde-20261027-1@swim-time
 DTSTAMP:20261027T210248Z
 DTSTART;TZID=Europe/Madrid:20261027T143000
@@ -1594,11 +1540,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261124-1@swim-time
-DTSTAMP:20261123T210130Z
-DTSTART;TZID=Europe/Madrid:20261124T150000
-DTEND;TZID=Europe/Madrid:20261124T160000
+DTSTAMP:20261124T210149Z
+DTSTART;TZID=Europe/Madrid:20261124T143000
+DTEND;TZID=Europe/Madrid:20261124T153000
 SUMMARY:Piscina (Hora tranquila #1)
-DESCRIPTION:C.C. Iparralde: un martes típico hay unas 17 personas en esta 
+DESCRIPTION:C.C. Iparralde: un martes típico hay unas 18 personas en esta 
  hora (aforo 182). Es la 1ª hora más tranquila del día.
 URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
  uid=entuo_1_9_4_3
@@ -1612,11 +1558,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261124-2@swim-time
-DTSTAMP:20261123T210130Z
-DTSTART;TZID=Europe/Madrid:20261124T093000
-DTEND;TZID=Europe/Madrid:20261124T103000
+DTSTAMP:20261124T210149Z
+DTSTART;TZID=Europe/Madrid:20261124T100000
+DTEND;TZID=Europe/Madrid:20261124T110000
 SUMMARY:Piscina (Hora tranquila #2)
-DESCRIPTION:C.C. Iparralde: un martes típico hay unas 20 personas en esta 
+DESCRIPTION:C.C. Iparralde: un martes típico hay unas 21 personas en esta 
  hora (aforo 182). Es la 2ª hora más tranquila del día.
 URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
  uid=entuo_1_9_4_3
@@ -1630,11 +1576,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261124-3@swim-time
-DTSTAMP:20261123T210130Z
-DTSTART;TZID=Europe/Madrid:20261124T130000
-DTEND;TZID=Europe/Madrid:20261124T140000
+DTSTAMP:20261124T210149Z
+DTSTART;TZID=Europe/Madrid:20261124T080000
+DTEND;TZID=Europe/Madrid:20261124T090000
 SUMMARY:Piscina (Hora tranquila #3)
-DESCRIPTION:C.C. Iparralde: un martes típico hay unas 29 personas en esta 
+DESCRIPTION:C.C. Iparralde: un martes típico hay unas 24 personas en esta 
  hora (aforo 182). Es la 3ª hora más tranquila del día.
 URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
  uid=entuo_1_9_4_3
@@ -1648,7 +1594,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261125-1@swim-time
-DTSTAMP:20261123T210130Z
+DTSTAMP:20261124T210149Z
 DTSTART;TZID=Europe/Madrid:20261125T140000
 DTEND;TZID=Europe/Madrid:20261125T150000
 SUMMARY:Piscina (Hora tranquila #1)
@@ -1666,7 +1612,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261125-2@swim-time
-DTSTAMP:20261123T210130Z
+DTSTAMP:20261124T210149Z
 DTSTART;TZID=Europe/Madrid:20261125T103000
 DTEND;TZID=Europe/Madrid:20261125T113000
 SUMMARY:Piscina (Hora tranquila #2)
@@ -1684,7 +1630,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261125-3@swim-time
-DTSTAMP:20261123T210130Z
+DTSTAMP:20261124T210149Z
 DTSTART;TZID=Europe/Madrid:20261125T080000
 DTEND;TZID=Europe/Madrid:20261125T090000
 SUMMARY:Piscina (Hora tranquila #3)
@@ -1702,7 +1648,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261126-1@swim-time
-DTSTAMP:20261123T210130Z
+DTSTAMP:20261124T210149Z
 DTSTART;TZID=Europe/Madrid:20261126T150000
 DTEND;TZID=Europe/Madrid:20261126T160000
 SUMMARY:Piscina (Hora tranquila #1)
@@ -1720,7 +1666,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261126-2@swim-time
-DTSTAMP:20261123T210130Z
+DTSTAMP:20261124T210149Z
 DTSTART;TZID=Europe/Madrid:20261126T080000
 DTEND;TZID=Europe/Madrid:20261126T090000
 SUMMARY:Piscina (Hora tranquila #2)
@@ -1738,7 +1684,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261126-3@swim-time
-DTSTAMP:20261123T210130Z
+DTSTAMP:20261124T210149Z
 DTSTART;TZID=Europe/Madrid:20261126T103000
 DTEND;TZID=Europe/Madrid:20261126T113000
 SUMMARY:Piscina (Hora tranquila #3)
@@ -1756,7 +1702,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261127-1@swim-time
-DTSTAMP:20261123T210130Z
+DTSTAMP:20261124T210149Z
 DTSTART;TZID=Europe/Madrid:20261127T143000
 DTEND;TZID=Europe/Madrid:20261127T153000
 SUMMARY:Piscina (Hora tranquila #1)
@@ -1774,7 +1720,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261127-2@swim-time
-DTSTAMP:20261123T210130Z
+DTSTAMP:20261124T210149Z
 DTSTART;TZID=Europe/Madrid:20261127T123000
 DTEND;TZID=Europe/Madrid:20261127T133000
 SUMMARY:Piscina (Hora tranquila #2)
@@ -1792,7 +1738,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261127-3@swim-time
-DTSTAMP:20261123T210130Z
+DTSTAMP:20261124T210149Z
 DTSTART;TZID=Europe/Madrid:20261127T203000
 DTEND;TZID=Europe/Madrid:20261127T213000
 SUMMARY:Piscina (Hora tranquila #3)
@@ -1810,7 +1756,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261128-1@swim-time
-DTSTAMP:20261123T210130Z
+DTSTAMP:20261124T210149Z
 DTSTART;TZID=Europe/Madrid:20261128T203000
 DTEND;TZID=Europe/Madrid:20261128T213000
 SUMMARY:Piscina (Hora tranquila #1)
@@ -1828,7 +1774,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261128-2@swim-time
-DTSTAMP:20261123T210130Z
+DTSTAMP:20261124T210149Z
 DTSTART;TZID=Europe/Madrid:20261128T150000
 DTEND;TZID=Europe/Madrid:20261128T160000
 SUMMARY:Piscina (Hora tranquila #2)
@@ -1846,7 +1792,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261128-3@swim-time
-DTSTAMP:20261123T210130Z
+DTSTAMP:20261124T210149Z
 DTSTART;TZID=Europe/Madrid:20261128T170000
 DTEND;TZID=Europe/Madrid:20261128T180000
 SUMMARY:Piscina (Hora tranquila #3)
@@ -1864,7 +1810,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261129-1@swim-time
-DTSTAMP:20261123T210130Z
+DTSTAMP:20261124T210149Z
 DTSTART;TZID=Europe/Madrid:20261129T170000
 DTEND;TZID=Europe/Madrid:20261129T180000
 SUMMARY:Piscina (Hora tranquila #1)
@@ -1882,7 +1828,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261129-2@swim-time
-DTSTAMP:20261123T210130Z
+DTSTAMP:20261124T210149Z
 DTSTART;TZID=Europe/Madrid:20261129T143000
 DTEND;TZID=Europe/Madrid:20261129T153000
 SUMMARY:Piscina (Hora tranquila #2)
@@ -1900,12 +1846,66 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iparralde-20261129-3@swim-time
-DTSTAMP:20261123T210130Z
+DTSTAMP:20261124T210149Z
 DTSTART;TZID=Europe/Madrid:20261129T203000
 DTEND;TZID=Europe/Madrid:20261129T213000
 SUMMARY:Piscina (Hora tranquila #3)
 DESCRIPTION:C.C. Iparralde: un domingo típico hay unas 13 personas en esta
   hora (aforo 182). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_1_9_4_3
+LOCATION:C.C. Iparralde\nPlaza Zuberoa\, s/n\, 01002 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Plaza Zuberoa, s/n, 01002 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="C.C. 
+ Iparralde":geo:42.85507,-2.66751
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iparralde-20261130-1@swim-time
+DTSTAMP:20261124T210149Z
+DTSTART;TZID=Europe/Madrid:20261130T143000
+DTEND;TZID=Europe/Madrid:20261130T153000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Iparralde: un lunes típico hay unas 15 personas en esta h
+ ora (aforo 182). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_1_9_4_3
+LOCATION:C.C. Iparralde\nPlaza Zuberoa\, s/n\, 01002 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Plaza Zuberoa, s/n, 01002 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="C.C. 
+ Iparralde":geo:42.85507,-2.66751
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iparralde-20261130-2@swim-time
+DTSTAMP:20261124T210149Z
+DTSTART;TZID=Europe/Madrid:20261130T103000
+DTEND;TZID=Europe/Madrid:20261130T113000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Iparralde: un lunes típico hay unas 20 personas en esta h
+ ora (aforo 182). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_1_9_4_3
+LOCATION:C.C. Iparralde\nPlaza Zuberoa\, s/n\, 01002 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Plaza Zuberoa, s/n, 01002 
+ Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE="C.C. 
+ Iparralde":geo:42.85507,-2.66751
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iparralde-20261130-3@swim-time
+DTSTAMP:20261124T210149Z
+DTSTART;TZID=Europe/Madrid:20261130T123000
+DTEND;TZID=Europe/Madrid:20261130T133000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Iparralde: un lunes típico hay unas 31 personas en esta h
+ ora (aforo 182). Es la 3ª hora más tranquila del día.
 URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
  uid=entuo_1_9_4_3
 LOCATION:C.C. Iparralde\nPlaza Zuberoa\, s/n\, 01002 Vitoria-Gasteiz
