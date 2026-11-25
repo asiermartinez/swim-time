@@ -12,8 +12,8 @@ Suscríbete a una piscina para ver en tu calendario sus horas tranquilas de la p
 | Pol. Abetxuko | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/es/abetxuko.ics |
 | C.C. Salburua | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/es/salburua.ics |
 | C.C. Hegoalde | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/es/hegoalde.ics |
-| C.C. Lakua | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/es/lakua.ics |
 | C.C. Aldabe | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/es/aldabe.ics |
+| C.C. Lakua | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/es/lakua.ics |
 | C.C. Iparralde | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/es/iparralde.ics |
 | Pol. San Andrés | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/es/san-andres.ics |
 | C.C. Ibaiondo | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/es/ibaiondo.ics |

@@ -12,8 +12,8 @@ Subscribe to a pool to see its quiet hours for the coming week in your calendar,
 | Pol. Abetxuko | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/en/abetxuko.ics |
 | C.C. Salburua | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/en/salburua.ics |
 | C.C. Hegoalde | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/en/hegoalde.ics |
-| C.C. Lakua | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/en/lakua.ics |
 | C.C. Aldabe | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/en/aldabe.ics |
+| C.C. Lakua | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/en/lakua.ics |
 | C.C. Iparralde | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/en/iparralde.ics |
 | Pol. San Andrés | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/en/san-andres.ics |
 | C.C. Ibaiondo | https://raw.githubusercontent.com/asiermartinez/swim-time/main/calendar/en/ibaiondo.ics |

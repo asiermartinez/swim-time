@@ -16,8 +16,8 @@ Each row is a typical day: the line shows the occupancy of each slot and the str
 <a href="#pol-abetxuko"><img src="charts/en/summary/abetxuko.svg" alt="Typical occupancy of Pol. Abetxuko"></a>
 <a href="#cc-salburua"><img src="charts/en/summary/salburua.svg" alt="Typical occupancy of C.C. Salburua"></a>
 <a href="#cc-hegoalde"><img src="charts/en/summary/hegoalde.svg" alt="Typical occupancy of C.C. Hegoalde"></a>
-<a href="#cc-lakua"><img src="charts/en/summary/lakua.svg" alt="Typical occupancy of C.C. Lakua"></a>
 <a href="#cc-aldabe"><img src="charts/en/summary/aldabe.svg" alt="Typical occupancy of C.C. Aldabe"></a>
+<a href="#cc-lakua"><img src="charts/en/summary/lakua.svg" alt="Typical occupancy of C.C. Lakua"></a>
 <a href="#cc-iparralde"><img src="charts/en/summary/iparralde.svg" alt="Typical occupancy of C.C. Iparralde"></a>
 <a href="#pol-san-andrés"><img src="charts/en/summary/san-andres.svg" alt="Typical occupancy of Pol. San Andrés"></a>
 <a href="#cc-ibaiondo"><img src="charts/en/summary/ibaiondo.svg" alt="Typical occupancy of C.C. Ibaiondo"></a>
@@ -46,14 +46,14 @@ Each row is a typical day: the line shows the occupancy of each slot and the str
 ![Typical occupancy of C.C. Hegoalde](charts/en/hegoalde.svg)
 
 
-## C.C. Lakua
-
-![Typical occupancy of C.C. Lakua](charts/en/lakua.svg)
-
-
 ## C.C. Aldabe
 
 ![Typical occupancy of C.C. Aldabe](charts/en/aldabe.svg)
+
+
+## C.C. Lakua
+
+![Typical occupancy of C.C. Lakua](charts/en/lakua.svg)
 
 
 ## C.C. Iparralde
@@ -84,4 +84,4 @@ The Olympic pool is set up as 50 metres (10 lanes) on Fridays from 15:00 to 21:3
 
 No data in the last 8 weeks: it may be closed.
 
-<sub>Updated 24/11/2026 22:01 · Sampled every 15 min during opening hours</sub>
+<sub>Updated 25/11/2026 22:01 · Sampled every 15 min during opening hours</sub>

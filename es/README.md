@@ -16,8 +16,8 @@ Cada fila es un día típico: la línea muestra la ocupación de cada franja y l
 <a href="#pol-abetxuko"><img src="../charts/es/summary/abetxuko.svg" alt="Ocupación típica de Pol. Abetxuko"></a>
 <a href="#cc-salburua"><img src="../charts/es/summary/salburua.svg" alt="Ocupación típica de C.C. Salburua"></a>
 <a href="#cc-hegoalde"><img src="../charts/es/summary/hegoalde.svg" alt="Ocupación típica de C.C. Hegoalde"></a>
-<a href="#cc-lakua"><img src="../charts/es/summary/lakua.svg" alt="Ocupación típica de C.C. Lakua"></a>
 <a href="#cc-aldabe"><img src="../charts/es/summary/aldabe.svg" alt="Ocupación típica de C.C. Aldabe"></a>
+<a href="#cc-lakua"><img src="../charts/es/summary/lakua.svg" alt="Ocupación típica de C.C. Lakua"></a>
 <a href="#cc-iparralde"><img src="../charts/es/summary/iparralde.svg" alt="Ocupación típica de C.C. Iparralde"></a>
 <a href="#pol-san-andrés"><img src="../charts/es/summary/san-andres.svg" alt="Ocupación típica de Pol. San Andrés"></a>
 <a href="#cc-ibaiondo"><img src="../charts/es/summary/ibaiondo.svg" alt="Ocupación típica de C.C. Ibaiondo"></a>
@@ -46,14 +46,14 @@ Cada fila es un día típico: la línea muestra la ocupación de cada franja y l
 ![Ocupación típica de C.C. Hegoalde](../charts/es/hegoalde.svg)
 
 
-## C.C. Lakua
-
-![Ocupación típica de C.C. Lakua](../charts/es/lakua.svg)
-
-
 ## C.C. Aldabe
 
 ![Ocupación típica de C.C. Aldabe](../charts/es/aldabe.svg)
+
+
+## C.C. Lakua
+
+![Ocupación típica de C.C. Lakua](../charts/es/lakua.svg)
 
 
 ## C.C. Iparralde
@@ -84,4 +84,4 @@ La piscina olímpica se configura en 50 metros (10 calles) los viernes de 15:00 
 
 Sin datos en las últimas 8 semanas: puede que esté cerrada.
 
-<sub>Actualizado el 24/11/2026 22:01 · Muestreo cada 15 min en horario de apertura</sub>
+<sub>Actualizado el 25/11/2026 22:01 · Muestreo cada 15 min en horario de apertura</sub>
