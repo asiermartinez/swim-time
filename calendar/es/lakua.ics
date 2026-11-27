@@ -27,60 +27,6 @@ TZOFFSETTO:+0100
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:lakua-20261029-1@swim-time
-DTSTAMP:20261029T210257Z
-DTSTART;TZID=Europe/Madrid:20261029T140000
-DTEND;TZID=Europe/Madrid:20261029T150000
-SUMMARY:Piscina (Hora tranquila #1)
-DESCRIPTION:C.C. Lakua: un jueves típico hay unas 12 personas en esta hora
-  (aforo 187). Es la 1ª hora más tranquila del día.
-URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
- uid=entuo_1_6_4_1
-LOCATION:C.C. Lakua\nSenda de los Echanove\, 2\, 01010 Vitoria-Gasteiz
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Senda de los Echanove, 2, 
- 01010 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
- "C.C. Lakua":geo:42.85599,-2.69537
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:lakua-20261029-2@swim-time
-DTSTAMP:20261029T210257Z
-DTSTART;TZID=Europe/Madrid:20261029T080000
-DTEND;TZID=Europe/Madrid:20261029T090000
-SUMMARY:Piscina (Hora tranquila #2)
-DESCRIPTION:C.C. Lakua: un jueves típico hay unas 14 personas en esta hora
-  (aforo 187). Es la 2ª hora más tranquila del día.
-URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
- uid=entuo_1_6_4_1
-LOCATION:C.C. Lakua\nSenda de los Echanove\, 2\, 01010 Vitoria-Gasteiz
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Senda de los Echanove, 2, 
- 01010 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
- "C.C. Lakua":geo:42.85599,-2.69537
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:lakua-20261029-3@swim-time
-DTSTAMP:20261029T210257Z
-DTSTART;TZID=Europe/Madrid:20261029T160000
-DTEND;TZID=Europe/Madrid:20261029T170000
-SUMMARY:Piscina (Hora tranquila #3)
-DESCRIPTION:C.C. Lakua: un jueves típico hay unas 18 personas en esta hora
-  (aforo 187). Es la 3ª hora más tranquila del día.
-URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
- uid=entuo_1_6_4_1
-LOCATION:C.C. Lakua\nSenda de los Echanove\, 2\, 01010 Vitoria-Gasteiz
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Senda de los Echanove, 2, 
- 01010 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
- "C.C. Lakua":geo:42.85599,-2.69537
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:lakua-20261030-1@swim-time
 DTSTAMP:20261030T210159Z
 DTSTART;TZID=Europe/Madrid:20261030T143000
@@ -1594,11 +1540,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261127-1@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261127T143000
 DTEND;TZID=Europe/Madrid:20261127T153000
 SUMMARY:Piscina (Hora tranquila #1)
-DESCRIPTION:C.C. Lakua: un viernes típico hay unas 12 personas en esta hor
+DESCRIPTION:C.C. Lakua: un viernes típico hay unas 10 personas en esta hor
  a (aforo 187). Es la 1ª hora más tranquila del día.
 URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
  uid=entuo_1_6_4_1
@@ -1612,11 +1558,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261127-2@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261127T080000
 DTEND;TZID=Europe/Madrid:20261127T090000
 SUMMARY:Piscina (Hora tranquila #2)
-DESCRIPTION:C.C. Lakua: un viernes típico hay unas 15 personas en esta hor
+DESCRIPTION:C.C. Lakua: un viernes típico hay unas 16 personas en esta hor
  a (aforo 187). Es la 2ª hora más tranquila del día.
 URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
  uid=entuo_1_6_4_1
@@ -1630,11 +1576,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261127-3@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261127T110000
 DTEND;TZID=Europe/Madrid:20261127T120000
 SUMMARY:Piscina (Hora tranquila #3)
-DESCRIPTION:C.C. Lakua: un viernes típico hay unas 19 personas en esta hor
+DESCRIPTION:C.C. Lakua: un viernes típico hay unas 18 personas en esta hor
  a (aforo 187). Es la 3ª hora más tranquila del día.
 URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
  uid=entuo_1_6_4_1
@@ -1648,7 +1594,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261128-1@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261128T133000
 DTEND;TZID=Europe/Madrid:20261128T143000
 SUMMARY:Piscina (Hora tranquila #1)
@@ -1666,7 +1612,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261128-2@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261128T153000
 DTEND;TZID=Europe/Madrid:20261128T163000
 SUMMARY:Piscina (Hora tranquila #2)
@@ -1684,7 +1630,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261128-3@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261128T193000
 DTEND;TZID=Europe/Madrid:20261128T203000
 SUMMARY:Piscina (Hora tranquila #3)
@@ -1702,7 +1648,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261129-1@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261129T150000
 DTEND;TZID=Europe/Madrid:20261129T160000
 SUMMARY:Piscina (Hora tranquila #1)
@@ -1720,7 +1666,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261129-2@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261129T203000
 DTEND;TZID=Europe/Madrid:20261129T213000
 SUMMARY:Piscina (Hora tranquila #2)
@@ -1738,7 +1684,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261129-3@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261129T080000
 DTEND;TZID=Europe/Madrid:20261129T090000
 SUMMARY:Piscina (Hora tranquila #3)
@@ -1756,7 +1702,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261130-1@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261130T140000
 DTEND;TZID=Europe/Madrid:20261130T150000
 SUMMARY:Piscina (Hora tranquila #1)
@@ -1774,7 +1720,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261130-2@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261130T080000
 DTEND;TZID=Europe/Madrid:20261130T090000
 SUMMARY:Piscina (Hora tranquila #2)
@@ -1792,7 +1738,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261130-3@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261130T120000
 DTEND;TZID=Europe/Madrid:20261130T130000
 SUMMARY:Piscina (Hora tranquila #3)
@@ -1810,7 +1756,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261201-1@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261201T143000
 DTEND;TZID=Europe/Madrid:20261201T153000
 SUMMARY:Piscina (Hora tranquila #1)
@@ -1828,7 +1774,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261201-2@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261201T080000
 DTEND;TZID=Europe/Madrid:20261201T090000
 SUMMARY:Piscina (Hora tranquila #2)
@@ -1846,7 +1792,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261201-3@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261201T123000
 DTEND;TZID=Europe/Madrid:20261201T133000
 SUMMARY:Piscina (Hora tranquila #3)
@@ -1864,7 +1810,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261202-1@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261202T140000
 DTEND;TZID=Europe/Madrid:20261202T150000
 SUMMARY:Piscina (Hora tranquila #1)
@@ -1882,7 +1828,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261202-2@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261202T080000
 DTEND;TZID=Europe/Madrid:20261202T090000
 SUMMARY:Piscina (Hora tranquila #2)
@@ -1900,12 +1846,66 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:lakua-20261202-3@swim-time
-DTSTAMP:20261126T210132Z
+DTSTAMP:20261127T210144Z
 DTSTART;TZID=Europe/Madrid:20261202T203000
 DTEND;TZID=Europe/Madrid:20261202T213000
 SUMMARY:Piscina (Hora tranquila #3)
 DESCRIPTION:C.C. Lakua: un miércoles típico hay unas 25 personas en esta 
  hora (aforo 187). Es la 3ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_1_6_4_1
+LOCATION:C.C. Lakua\nSenda de los Echanove\, 2\, 01010 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Senda de los Echanove, 2, 
+ 01010 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Lakua":geo:42.85599,-2.69537
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lakua-20261203-1@swim-time
+DTSTAMP:20261127T210144Z
+DTSTART;TZID=Europe/Madrid:20261203T140000
+DTEND;TZID=Europe/Madrid:20261203T150000
+SUMMARY:Piscina (Hora tranquila #1)
+DESCRIPTION:C.C. Lakua: un jueves típico hay unas 12 personas en esta hora
+  (aforo 187). Es la 1ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_1_6_4_1
+LOCATION:C.C. Lakua\nSenda de los Echanove\, 2\, 01010 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Senda de los Echanove, 2, 
+ 01010 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Lakua":geo:42.85599,-2.69537
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lakua-20261203-2@swim-time
+DTSTAMP:20261127T210144Z
+DTSTART;TZID=Europe/Madrid:20261203T080000
+DTEND;TZID=Europe/Madrid:20261203T090000
+SUMMARY:Piscina (Hora tranquila #2)
+DESCRIPTION:C.C. Lakua: un jueves típico hay unas 14 personas en esta hora
+  (aforo 187). Es la 2ª hora más tranquila del día.
+URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
+ uid=entuo_1_6_4_1
+LOCATION:C.C. Lakua\nSenda de los Echanove\, 2\, 01010 Vitoria-Gasteiz
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Senda de los Echanove, 2, 
+ 01010 Vitoria-Gasteiz";X-APPLE-RADIUS=70;X-APPLE-REFERENCEFRAME=1;X-TITLE=
+ "C.C. Lakua":geo:42.85599,-2.69537
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:ENABLED
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lakua-20261203-3@swim-time
+DTSTAMP:20261127T210144Z
+DTSTART;TZID=Europe/Madrid:20261203T160000
+DTEND;TZID=Europe/Madrid:20261203T170000
+SUMMARY:Piscina (Hora tranquila #3)
+DESCRIPTION:C.C. Lakua: un jueves típico hay unas 19 personas en esta hora
+  (aforo 187). Es la 3ª hora más tranquila del día.
 URL:https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&
  uid=entuo_1_6_4_1
 LOCATION:C.C. Lakua\nSenda de los Echanove\, 2\, 01010 Vitoria-Gasteiz
